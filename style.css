@@ -55,8 +55,9 @@ ul{
   color: white;
   size:40px;
 }
-.box li a img:hover{
-  color: #b9b9b9;
+.box li a:hover{
+  background:transparent;
+  color:white;
 }
 .icon li a img{
   height: 50px;
