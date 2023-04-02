@@ -83,3 +83,6 @@ ul{
   padding: 0;
   display: block;
 }
+.info1 li img{
+  filter: contrast(0%) saturate(100%) invert(100%)
+}
